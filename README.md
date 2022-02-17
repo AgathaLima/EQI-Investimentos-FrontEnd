@@ -6,7 +6,6 @@
 <p align="center">EQI Simulador de Investimentos API</p>
 <p><br></p>
 <div align="center">
-
 <p><br></p>
 </div>
 
@@ -34,44 +33,44 @@ Para criação do gráfico utilizei de a biblioteca [Highcharts](highcharts.js),
 
 <br>
 <h3 align="center"> Apresentação e visão geral do projeto
-  <img alt="Resposta" title="Resposta" src="./img/visao_geral.png" />
+  <img alt="Resposta" title="Resposta" src="./imgs/visao_geral.png" />
 </h3>
 Essa é a visão ao iniciar o projeto. Como uma forma de sumilar o site da empresa criei um header (apenas ilustrativos) baseado no site e um footer com as redes sociais (todos clicáveis e serão direcionados para as respectivas redes da EQI Investimentos).
 
 <br>
 <h3 align="center"> Tela onde será realizada as interações
-  <img alt="Resposta" title="Resposta" src="./img/tela_vazio.png" />
+  <img alt="Resposta" title="Resposta" src="./imgs/tela_vazio.png" />
 </h3>
 Campos vazios sem nenhuma interação.
 
 <br>
 <h3 align="center"> Selecionando tipos de de Rendimento e Indexação
-  <img alt="Resposta" title="Resposta" src="./img/botoes.png" />
+  <img alt="Resposta" title="Resposta" src="./imgs/botoes.png" />
 </h3>
 Só será possível selecionar dois tipos de botões (um para tipo de Rendimento e outro para Tipo de Indexação), caso não atenda os critérios, ao pressionar "ok" os campos voltarão ao estado inicial para fazer uma nova seleção.
 
 <br>
 <h3 align="center"> Campos de Input requeridos
-  <img alt="Resposta" title="Resposta" src="./img/required.png" />
+  <img alt="Resposta" title="Resposta" src="./imgs/required.png" />
 </h3>
 Os campos de input não poderão estar vazios, caso contrário não será possível executar a simulação.
 Sendo que os inputs "IPCA ao ano" e "CDI ao ano" já estarão inseridos pela API.
 
 <br>
 <h3 align="center"> Campos inválidos
-  <img alt="Resposta" title="Resposta" src="./img/campos_invalidos.png" />
+  <img alt="Resposta" title="Resposta" src="./imgs/campos_invalidos.png" />
 </h3>
 Os campos só poderão ser preenchidos em formato numérico.
 
 <br>
 <h3 align="center">Executando a simulação
-  <img alt="Resposta" title="Resposta" src="./img/f.jpg" />
+  <img alt="Resposta" title="Resposta" src="./imgs/sumulacao_completa.png" />
 </h3>
 Ao executar a simulação as as informações serão trazidas da API e exibidas desntro dos cards. Os valores variam de acordo com as opções de indexação e rendimento escolhidos.
 
 <br>
 <h3 align="center">Limpar campos
-  <img alt="Resposta" title="Resposta" src="./img/limpar_campos.png" />
+  <img alt="Resposta" title="Resposta" src="./imgs/limpar_campos.png" />
 </h3>Ao clicar no botão "Limpar campos" todos os campos serão zerados e poderá ser executada uma nova simulação.
 
 <br>
