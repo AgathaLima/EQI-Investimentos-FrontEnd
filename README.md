@@ -3,7 +3,7 @@
   <img src="./imgs/logo.eqi.png" width="40%" style="align-itens: center"/>
 </p>
 
-<p align="center">EQI Simulador de Investimentos API</p>
+## <p align="center">EQI Simulador de Investimentos API</p>
 <p><br></p>
 <div align="center">
 <p><br></p>
@@ -25,7 +25,7 @@ O desafio consiste em para avaliar a contrução do front-end de um Simulador de
 
 Para desenvolver essa aplicação optei utilizar o JavaScript puro pois o objetivo do projeto é entender as minhas habilidades para HTML, CSS e JS. 
 Utilizei como ferramenta auxiliar o bootstrap apanas para que o clone dos botões da aplicação ficassem idênticos ao modelo apresentado no wireframe. Todo o restante da aplicação fiz com CSS puro também por questões de avaliação.
-Para criação do gráfico utilizei de a biblioteca [Highcharts](highcharts.js), onde encontrei o gráfico mais semelhante ao apresentado no wireframe.
+Para criação do gráfico utilizei de a biblioteca [Highcharts](https://www.highcharts.com/), onde encontrei o gráfico mais semelhante ao apresentado no wireframe.
 
 <p><br></p>
 
@@ -74,6 +74,15 @@ Ao executar a simulação as as informações serão trazidas da API e exibidas 
 </h3>Ao clicar no botão "Limpar campos" todos os campos serão zerados e poderá ser executada uma nova simulação.
 
 <br>
+
+## ✅ Como executar esse projeto
+
+Faça o clone/download deste repositório, execute `npm install` e `npx json-server db.json`. A API fica localizada em `http://localhost:3000`.
+
+Requisitos:
+
+* NodeJS
+* NPM
 
 ## 🛠 Tecnologias Utilizadas
 
