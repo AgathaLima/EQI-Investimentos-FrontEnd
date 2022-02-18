@@ -59,7 +59,7 @@ function ApiDataSimulacoes(){
                         </div>
                         <div class='card'>
                             <h5>Valor final Líquido</h5><br>
-                            <p style="color: green;">R$${itens.valorFinalLiquido}</p>
+                            <p style="color: #04e004;">R$${itens.valorFinalLiquido}</p>
                         </div>
                         <div class='card'>
                             <h5>Valor Total Investido</h5><br>
