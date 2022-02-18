@@ -82,13 +82,13 @@ Ao clicar no botão "Limpar campos" todos os campos serão zerados e o usuário 
 Os campos só poderão ser preenchidos em formato numérico.
 
 <br>
-<h3 align="center"> Simulação na prática
+<h3 align="center"> Simulação na prática<br>
   <img alt="Resposta" title="Resposta" src="./imgs/gif_exe.gif" />
 </h3>
 Esse gif mostra como a sulução funciona na prática.
 
 <br>
-<h3 align="center"> Responsividade
+<h3 align="center"> Responsividade<br>
   <img alt="Resposta" title="Resposta" src="./imgs/gif_responsividade.gif" />
 </h3>
 Esse site é totalmente resposivo, como pode ser visto no gif acima.
