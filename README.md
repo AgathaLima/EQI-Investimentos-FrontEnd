@@ -72,7 +72,8 @@ Ao executar a simulação as informações serão trazidas da API e exibidas den
 <br>
 <h3 align="center">Limpar campos
   <img alt="Resposta" title="Resposta" src="./imgs/limpar_campos.png" />
-</h3>Ao clicar no botão "Limpar campos" todos os campos serão zerados e o usuário poderá executar uma nova simulação.
+</h3>
+Ao clicar no botão "Limpar campos" todos os campos serão zerados e o usuário poderá executar uma nova simulação.
 
 <br>
 <h3 align="center"> Campos inválidos
