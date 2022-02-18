@@ -91,7 +91,7 @@ Esse gif mostra como a sulução funciona na prática.
   <img alt="Resposta" title="Resposta" src="./imgs/gif_responsividade.gif" />
 </h3>
 Esse site é totalmente resposivo, como pode ser visto no gif acima.
-Toda a responsividade foi feita através do `@media`.
+Toda a responsividade foi feita através do `Media query`.
 
 <br>
 ## ✅ Como executar esse projeto
@@ -104,14 +104,6 @@ Requisitos:
 * NPM
 
 <br>
-## ✅ Como executar esse projeto
-
-Faça o clone/download deste repositório, execute `npm install` e `npx json-server db.json`. A API fica localizada em `http://localhost:3000`.
-
-Requisitos:
-
-* NodeJS
-* NPM
 
 ## 🛠 Tecnologias Utilizadas
 
