@@ -92,7 +92,7 @@ Esse gif mostra como a sulução funciona na prática.
   <img alt="Resposta" title="Resposta" src="./imgs/gif_responsividade.gif" />
 </h3>
 Esse site é totalmente resposivo, como pode ser visto no gif acima.
-Toda a responsividade foi feita através do `Media query`.
+Toda a responsividade foi feita através do Media query.
 
 <br>
 ## ✅ Como executar esse projeto
