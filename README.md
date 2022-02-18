@@ -3,6 +3,7 @@
 </p>
 
 ## <p align="center">EQI Simulador de Investimentos - Fake-API</p>
+
 <p><br></p>
 <div align="center">
 <p><br></p>
@@ -85,14 +86,12 @@ Os campos só poderão ser preenchidos em formato numérico.
 </h3>
 Esse gif mostra como a sulução funciona na prática.
 
-
 <br>
 <h3 align="center"> Responsividade
   <img alt="Resposta" title="Resposta" src="./imgs/gif_responsividade.gif" />
 </h3>
 Esse site é totalmente resposivo, como pode ser visto no gif acima.
 Toda a responsividade foi feita através do `@media`.
-
 
 <br>
 ## ✅ Como executar esse projeto
@@ -105,6 +104,15 @@ Requisitos:
 * NPM
 
 <br>
+## ✅ Como executar esse projeto
+
+Faça o clone/download deste repositório, execute `npm install` e `npx json-server db.json`. A API fica localizada em `http://localhost:3000`.
+
+Requisitos:
+
+* NodeJS
+* NPM
+
 ## 🛠 Tecnologias Utilizadas
 
 <div style="display:flex; justify-content:center;">
@@ -123,3 +131,15 @@ Requisitos:
   </div>
 </table>
 </div>
+
+## ✅ Autora
+
+<table>
+  <div>
+    <tr>
+      <td align="center"><a href="https://github.com/AgathaLima"><img style="border-radius: 50%;" src="https://github.com/AgathaLima.png" width="100px;" alt=""/><br /><sub><b>Agatha Lima - Software Developer</b></sub></a><br /><a href="https://github.com/AgathaLima">🧑‍💻</a>
+      </td>
+    </tr>
+  </div>
+</table>
+
