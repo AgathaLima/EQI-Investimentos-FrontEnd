@@ -95,6 +95,7 @@ Esse site é totalmente resposivo, como pode ser visto no gif acima.
 Toda a responsividade foi feita através do Media query.
 
 <br>
+
 ## ✅ Como executar esse projeto
 
 Faça o clone/download deste repositório, execute `npm install` e `npx json-server db.json`. A API fica localizada em `http://localhost:3000`.
